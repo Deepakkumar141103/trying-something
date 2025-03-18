@@ -18,5 +18,8 @@ const urlschema = new mg.Schema({
     }]
 
 })
+
+
+
 const Url=mg.model("Deepak3",urlschema)
 module.exports=Url
